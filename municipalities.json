@@ -1,0 +1,3767 @@
+[
+{
+"id": 1,
+"name": "Shadanand",
+"district_id": 1
+},
+{
+"id": 2,
+"name": "Bhojpur",
+"district_id": 1
+},
+{
+"id": 3,
+"name": "Hatuwagadhi",
+"district_id": 1
+},
+{
+"id": 4,
+"name": "Ramprasad Rai",
+"district_id": 1
+},
+{
+"id": 5,
+"name": "Aamchok",
+"district_id": 1
+},
+{
+"id": 6,
+"name": "Tyamke Maiyum",
+"district_id": 1
+},
+{
+"id": 7,
+"name": "Arun",
+"district_id": 1
+},
+{
+"id": 8,
+"name": "Pauwadungma",
+"district_id": 1
+},
+{
+"id": 9,
+"name": "Salpasilichho",
+"district_id": 1
+},
+{
+"id": 10,
+"name": "Dhankuta",
+"district_id": 2
+},
+{
+"id": 11,
+"name": "Pakhribas",
+"district_id": 2
+},
+{
+"id": 12,
+"name": "Mahalaxmi",
+"district_id": 2
+},
+{
+"id": 13,
+"name": "Sangurigadhi",
+"district_id": 2
+},
+{
+"id": 14,
+"name": "Chaubise",
+"district_id": 2
+},
+{
+"id": 15,
+"name": "Sahidbhumi",
+"district_id": 2
+},
+{
+"id": 16,
+"name": "Chhathar Jorpati",
+"district_id": 2
+},
+{
+"id": 17,
+"name": "Suryodaya",
+"district_id": 3
+},
+{
+"id": 18,
+"name": "Ilam",
+"district_id": 3
+},
+{
+"id": 19,
+"name": "Deumai",
+"district_id": 3
+},
+{
+"id": 20,
+"name": "Maijogmai",
+"district_id": 3
+},
+{
+"id": 21,
+"name": "Phakphokthum",
+"district_id": 3
+},
+{
+"id": 22,
+"name": "Mai",
+"district_id": 3
+},
+{
+"id": 23,
+"name": "Chulachuli",
+"district_id": 3
+},
+{
+"id": 24,
+"name": "Rong",
+"district_id": 3
+},
+{
+"id": 25,
+"name": "Mangsebung",
+"district_id": 3
+},
+{
+"id": 26,
+"name": "Sandakpur",
+"district_id": 3
+},
+{
+"id": 27,
+"name": "Mechinagar",
+"district_id": 4
+},
+{
+"id": 28,
+"name": "Birtamod",
+"district_id": 4
+},
+{
+"id": 29,
+"name": "Damak",
+"district_id": 4
+},
+{
+"id": 30,
+"name": "Bhadrapur",
+"district_id": 4
+},
+{
+"id": 31,
+"name": "Shivasatakshi",
+"district_id": 4
+},
+{
+"id": 32,
+"name": "Arjundhara",
+"district_id": 4
+},
+{
+"id": 33,
+"name": "Gauradaha",
+"district_id": 4
+},
+{
+"id": 34,
+"name": "Kankai",
+"district_id": 4
+},
+{
+"id": 35,
+"name": "Kamal",
+"district_id": 4
+},
+{
+"id": 36,
+"name": "Buddha Shanti",
+"district_id": 4
+},
+{
+"id": 37,
+"name": "Kachankawal",
+"district_id": 4
+},
+{
+"id": 38,
+"name": "Jhapa",
+"district_id": 4
+},
+{
+"id": 39,
+"name": "Barhadashi",
+"district_id": 4
+},
+{
+"id": 40,
+"name": "Gaurigunj",
+"district_id": 4
+},
+{
+"id": 41,
+"name": "Haldibari",
+"district_id": 4
+},
+{
+"id": 42,
+"name": "Diktel Rupakot Majhuwagadhi",
+"district_id": 5
+},
+{
+"id": 43,
+"name": "Halesi Tuwachung",
+"district_id": 5
+},
+{
+"id": 44,
+"name": "Khotehang",
+"district_id": 5
+},
+{
+"id": 45,
+"name": "Diprung Chuichumma",
+"district_id": 5
+},
+{
+"id": 46,
+"name": "Aiselukharka",
+"district_id": 5
+},
+{
+"id": 47,
+"name": "Jantedhunga",
+"district_id": 5
+},
+{
+"id": 48,
+"name": "Kepilasgadhi",
+"district_id": 5
+},
+{
+"id": 49,
+"name": "Barahpokhari",
+"district_id": 5
+},
+{
+"id": 50,
+"name": "Rawa Besi",
+"district_id": 5
+},
+{
+"id": 51,
+"name": "Sakela",
+"district_id": 5
+},
+{
+"id": 52,
+"name": "Sundar Haraicha",
+"district_id": 6
+},
+{
+"id": 53,
+"name": "Belbari",
+"district_id": 6
+},
+{
+"id": 54,
+"name": "Pathari Shanischare",
+"district_id": 6
+},
+{
+"id": 55,
+"name": "Ratuwamai",
+"district_id": 6
+},
+{
+"id": 56,
+"name": "Urlabari",
+"district_id": 6
+},
+{
+"id": 57,
+"name": "Rangeli",
+"district_id": 6
+},
+{
+"id": 58,
+"name": "Sunawarshi",
+"district_id": 6
+},
+{
+"id": 59,
+"name": "Letang",
+"district_id": 6
+},
+{
+"id": 60,
+"name": "Biratnagar",
+"district_id": 6
+},
+{
+"id": 61,
+"name": "Jahada",
+"district_id": 6
+},
+{
+"id": 62,
+"name": "Budi Ganga",
+"district_id": 6
+},
+{
+"id": 63,
+"name": "Katahari",
+"district_id": 6
+},
+{
+"id": 64,
+"name": "Dhanpalthan",
+"district_id": 6
+},
+{
+"id": 65,
+"name": "Kanepokhari",
+"district_id": 6
+},
+{
+"id": 66,
+"name": "Gramthan",
+"district_id": 6
+},
+{
+"id": 67,
+"name": "Kerabari",
+"district_id": 6
+},
+{
+"id": 68,
+"name": "Miklajung",
+"district_id": 6
+},
+{
+"id": 69,
+"name": "Siddhicharan",
+"district_id": 7
+},
+{
+"id": 70,
+"name": "Khiji Demba",
+"district_id": 7
+},
+{
+"id": 71,
+"name": "Chisankhugadhi",
+"district_id": 7
+},
+{
+"id": 72,
+"name": "Molung",
+"district_id": 7
+},
+{
+"id": 73,
+"name": "Sunkoshi",
+"district_id": 7
+},
+{
+"id": 74,
+"name": "Champadevi",
+"district_id": 7
+},
+{
+"id": 75,
+"name": "Manebhanjyang",
+"district_id": 7
+},
+{
+"id": 76,
+"name": "Likhu",
+"district_id": 7
+},
+{
+"id": 77,
+"name": "Phidim",
+"district_id": 8
+},
+{
+"id": 78,
+"name": "Miklajung",
+"district_id": 8
+},
+{
+"id": 79,
+"name": "Phalgunanda",
+"district_id": 8
+},
+{
+"id": 80,
+"name": "Hilihang",
+"district_id": 8
+},
+{
+"id": 81,
+"name": "Phalelung",
+"district_id": 8
+},
+{
+"id": 82,
+"name": "Yangwarak",
+"district_id": 8
+},
+{
+"id": 83,
+"name": "Kummayak",
+"district_id": 8
+},
+{
+"id": 84,
+"name": "Tumbewa",
+"district_id": 8
+},
+{
+"id": 85,
+"name": "Khandbari",
+"district_id": 9
+},
+{
+"id": 86,
+"name": "Chainpur",
+"district_id": 9
+},
+{
+"id": 87,
+"name": "Dharmadevi",
+"district_id": 9
+},
+{
+"id": 88,
+"name": "Panchkhapan",
+"district_id": 9
+},
+{
+"id": 89,
+"name": "Madi",
+"district_id": 9
+},
+{
+"id": 90,
+"name": "Makalu",
+"district_id": 9
+},
+{
+"id": 91,
+"name": "Silichong",
+"district_id": 9
+},
+{
+"id": 92,
+"name": "Sabhapokhari",
+"district_id": 9
+},
+{
+"id": 93,
+"name": "Chichila",
+"district_id": 9
+},
+{
+"id": 94,
+"name": "BhotKhola",
+"district_id": 9
+},
+{
+"id": 95,
+"name": "Solu Dudhkunda",
+"district_id": 10
+},
+{
+"id": 96,
+"name": "Mapya Dudhkoshi",
+"district_id": 10
+},
+{
+"id": 97,
+"name": "Necha Salyan",
+"district_id": 10
+},
+{
+"id": 98,
+"name": "Thulung Dudhkoshi",
+"district_id": 10
+},
+{
+"id": 99,
+"name": "Maha Kulung",
+"district_id": 10
+},
+{
+"id": 100,
+"name": "Sotang",
+"district_id": 10
+},
+{
+"id": 101,
+"name": "Khumbu PasangLhamu",
+"district_id": 10
+},
+{
+"id": 102,
+"name": "Likhu Pike",
+"district_id": 10
+},
+{
+"id": 103,
+"name": "BarahaKshetra",
+"district_id": 11
+},
+{
+"id": 104,
+"name": "Inaruwa",
+"district_id": 11
+},
+{
+"id": 105,
+"name": "Duhabi",
+"district_id": 11
+},
+{
+"id": 106,
+"name": "Ramdhuni",
+"district_id": 11
+},
+{
+"id": 107,
+"name": "Itahari",
+"district_id": 11
+},
+{
+"id": 108,
+"name": "Dharan",
+"district_id": 11
+},
+{
+"id": 109,
+"name": "Koshi",
+"district_id": 11
+},
+{
+"id": 110,
+"name": "Harinagar",
+"district_id": 11
+},
+{
+"id": 111,
+"name": "Bhokraha Narsingh",
+"district_id": 11
+},
+{
+"id": 112,
+"name": "Dewangunj",
+"district_id": 11
+},
+{
+"id": 113,
+"name": "Gadhi",
+"district_id": 11
+},
+{
+"id": 114,
+"name": "Barju",
+"district_id": 11
+},
+{
+"id": 115,
+"name": "Phungling",
+"district_id": 12
+},
+{
+"id": 116,
+"name": "Sirijangha",
+"district_id": 12
+},
+{
+"id": 117,
+"name": "Aathrai Triveni",
+"district_id": 12
+},
+{
+"id": 118,
+"name": "Pathibhara Yangwarak",
+"district_id": 12
+},
+{
+"id": 119,
+"name": "Meringden",
+"district_id": 12
+},
+{
+"id": 120,
+"name": "Sidingwa",
+"district_id": 12
+},
+{
+"id": 121,
+"name": "Phaktanglung",
+"district_id": 12
+},
+{
+"id": 122,
+"name": "Maiwa Khola",
+"district_id": 12
+},
+{
+"id": 123,
+"name": "Mikwa Khola",
+"district_id": 12
+},
+{
+"id": 124,
+"name": "Myanglung",
+"district_id": 13
+},
+{
+"id": 125,
+"name": "Laligurans",
+"district_id": 13
+},
+{
+"id": 126,
+"name": "Aathrai",
+"district_id": 13
+},
+{
+"id": 127,
+"name": "Phedap",
+"district_id": 13
+},
+{
+"id": 128,
+"name": "Chhathar",
+"district_id": 13
+},
+{
+"id": 129,
+"name": "Menchayayem",
+"district_id": 13
+},
+{
+"id": 130,
+"name": "Triyuga",
+"district_id": 14
+},
+{
+"id": 131,
+"name": "Katari",
+"district_id": 14
+},
+{
+"id": 132,
+"name": "Chaudandigadhi",
+"district_id": 14
+},
+{
+"id": 133,
+"name": "Belaka",
+"district_id": 14
+},
+{
+"id": 134,
+"name": "Udayapurgadhi",
+"district_id": 14
+},
+{
+"id": 135,
+"name": "Rautamai",
+"district_id": 14
+},
+{
+"id": 136,
+"name": "Tapli",
+"district_id": 14
+},
+{
+"id": 137,
+"name": "Limchungbung",
+"district_id": 14
+},
+{
+"id": 138,
+"name": "Birgunj",
+"district_id": 15
+},
+{
+"id": 139,
+"name": "Bahudarmai",
+"district_id": 15
+},
+{
+"id": 140,
+"name": "Parsagadhi",
+"district_id": 15
+},
+{
+"id": 141,
+"name": "Pokhariya",
+"district_id": 15
+},
+{
+"id": 142,
+"name": "Bindabasini",
+"district_id": 15
+},
+{
+"id": 143,
+"name": "Dhobini",
+"district_id": 15
+},
+{
+"id": 144,
+"name": "Chhipaharmai",
+"district_id": 15
+},
+{
+"id": 145,
+"name": "Jagarnathpur",
+"district_id": 15
+},
+{
+"id": 146,
+"name": "Jirabhawani",
+"district_id": 15
+},
+{
+"id": 147,
+"name": "Kalikamai",
+"district_id": 15
+},
+{
+"id": 148,
+"name": "Pakaha Mainpur",
+"district_id": 15
+},
+{
+"id": 149,
+"name": "Paterwa Sugauli",
+"district_id": 15
+},
+{
+"id": 150,
+"name": "Sakhuwa Prasauni",
+"district_id": 15
+},
+{
+"id": 151,
+"name": "Thori",
+"district_id": 15
+},
+{
+"id": 152,
+"name": "Kalaiya",
+"district_id": 16
+},
+{
+"id": 153,
+"name": "Jitpur Simara",
+"district_id": 16
+},
+{
+"id": 154,
+"name": "Kolhabi",
+"district_id": 16
+},
+{
+"id": 155,
+"name": "Nijgadh",
+"district_id": 16
+},
+{
+"id": 156,
+"name": "Mahagadhimai",
+"district_id": 16
+},
+{
+"id": 157,
+"name": "Simaraungadh",
+"district_id": 16
+},
+{
+"id": 158,
+"name": "Pacharauta",
+"district_id": 16
+},
+{
+"id": 159,
+"name": "Pheta",
+"district_id": 16
+},
+{
+"id": 160,
+"name": "Bishrampur",
+"district_id": 16
+},
+{
+"id": 161,
+"name": "Prasauni",
+"district_id": 16
+},
+{
+"id": 162,
+"name": "Adarsh Kotwal",
+"district_id": 16
+},
+{
+"id": 163,
+"name": "Karaiyamai",
+"district_id": 16
+},
+{
+"id": 164,
+"name": "Devtal",
+"district_id": 16
+},
+{
+"id": 165,
+"name": "Parwanipur",
+"district_id": 16
+},
+{
+"id": 166,
+"name": "Baragadhi",
+"district_id": 16
+},
+{
+"id": 167,
+"name": "Suwarna",
+"district_id": 16
+},
+{
+"id": 168,
+"name": "Baudhimai",
+"district_id": 17
+},
+{
+"id": 169,
+"name": "Brindaban",
+"district_id": 17
+},
+{
+"id": 170,
+"name": "Chandrapur",
+"district_id": 17
+},
+{
+"id": 171,
+"name": "Dewahi Gonahi",
+"district_id": 17
+},
+{
+"id": 172,
+"name": "Gadhimai",
+"district_id": 17
+},
+{
+"id": 173,
+"name": "Guruda",
+"district_id": 17
+},
+{
+"id": 174,
+"name": "Gaur",
+"district_id": 17
+},
+{
+"id": 175,
+"name": "Gujara",
+"district_id": 17
+},
+{
+"id": 176,
+"name": "Ishanath",
+"district_id": 17
+},
+{
+"id": 177,
+"name": "Katahariya",
+"district_id": 17
+},
+{
+"id": 178,
+"name": "Madhav Narayan",
+"district_id": 17
+},
+{
+"id": 179,
+"name": "Maulapur",
+"district_id": 17
+},
+{
+"id": 180,
+"name": "Paroha",
+"district_id": 17
+},
+{
+"id": 181,
+"name": "Phatuwa Bijayapur",
+"district_id": 17
+},
+{
+"id": 182,
+"name": "Rajdevi",
+"district_id": 17
+},
+{
+"id": 183,
+"name": "Rajpur",
+"district_id": 17
+},
+{
+"id": 184,
+"name": "Durga Bhagwati",
+"district_id": 17
+},
+{
+"id": 185,
+"name": "Yamunamai",
+"district_id": 17
+},
+{
+"id": 186,
+"name": "Bagmati",
+"district_id": 18
+},
+{
+"id": 187,
+"name": "Balara",
+"district_id": 18
+},
+{
+"id": 188,
+"name": "Barahathwa",
+"district_id": 18
+},
+{
+"id": 189,
+"name": "Godaita",
+"district_id": 18
+},
+{
+"id": 190,
+"name": "Hariwan",
+"district_id": 18
+},
+{
+"id": 191,
+"name": "Haripur",
+"district_id": 18
+},
+{
+"id": 192,
+"name": "Haripurwa",
+"district_id": 18
+},
+{
+"id": 193,
+"name": "Ishowrpur",
+"district_id": 18
+},
+{
+"id": 194,
+"name": "Kabilasi",
+"district_id": 18
+},
+{
+"id": 195,
+"name": "Lalbandi",
+"district_id": 18
+},
+{
+"id": 196,
+"name": "Malangawa",
+"district_id": 18
+},
+{
+"id": 197,
+"name": "Basbariya",
+"district_id": 18
+},
+{
+"id": 198,
+"name": "Bisnu",
+"district_id": 18
+},
+{
+"id": 199,
+"name": "Brahampuri",
+"district_id": 18
+},
+{
+"id": 200,
+"name": "Chakraghatta",
+"district_id": 18
+},
+{
+"id": 201,
+"name": "Chandranagar",
+"district_id": 18
+},
+{
+"id": 202,
+"name": "Dhankaul",
+"district_id": 18
+},
+{
+"id": 203,
+"name": "Kaudena",
+"district_id": 18
+},
+{
+"id": 204,
+"name": "Parsa",
+"district_id": 18
+},
+{
+"id": 205,
+"name": "Ramnagar",
+"district_id": 18
+},
+{
+"id": 206,
+"name": "Lahan",
+"district_id": 19
+},
+{
+"id": 207,
+"name": "Dhangadhimai",
+"district_id": 19
+},
+{
+"id": 208,
+"name": "Siraha",
+"district_id": 19
+},
+{
+"id": 209,
+"name": "Golbazar",
+"district_id": 19
+},
+{
+"id": 210,
+"name": "Mirchaiya",
+"district_id": 19
+},
+{
+"id": 211,
+"name": "Kalyanpur",
+"district_id": 19
+},
+{
+"id": 212,
+"name": "Karjanha",
+"district_id": 19
+},
+{
+"id": 213,
+"name": "Sukhipur",
+"district_id": 19
+},
+{
+"id": 214,
+"name": "Bhagwanpur",
+"district_id": 19
+},
+{
+"id": 215,
+"name": "Aurahi",
+"district_id": 19
+},
+{
+"id": 216,
+"name": "Bishnupur",
+"district_id": 19
+},
+{
+"id": 217,
+"name": "Bariyarpatti",
+"district_id": 19
+},
+{
+"id": 218,
+"name": "Lakshmipur Patari",
+"district_id": 19
+},
+{
+"id": 219,
+"name": "Naraha",
+"district_id": 19
+},
+{
+"id": 220,
+"name": "SakhuwanankarKatti",
+"district_id": 19
+},
+{
+"id": 221,
+"name": "Arnama",
+"district_id": 19
+},
+{
+"id": 222,
+"name": "Navarajpur",
+"district_id": 19
+},
+{
+"id": 223,
+"name": "Janakpurdham",
+"district_id": 20
+},
+{
+"id": 224,
+"name": "Chhireshwarnath",
+"district_id": 20
+},
+{
+"id": 225,
+"name": "Ganeshman Charnath",
+"district_id": 20
+},
+{
+"id": 226,
+"name": "Dhanushadham",
+"district_id": 20
+},
+{
+"id": 227,
+"name": "Nagarain",
+"district_id": 20
+},
+{
+"id": 228,
+"name": "Bideha",
+"district_id": 20
+},
+{
+"id": 229,
+"name": "Mithila",
+"district_id": 20
+},
+{
+"id": 230,
+"name": "Sahidnagar",
+"district_id": 20
+},
+{
+"id": 231,
+"name": "Sabaila",
+"district_id": 20
+},
+{
+"id": 232,
+"name": "Kamala",
+"district_id": 20
+},
+{
+"id": 233,
+"name": "MithilaBihari",
+"district_id": 20
+},
+{
+"id": 234,
+"name": "Hansapur",
+"district_id": 20
+},
+{
+"id": 235,
+"name": "Janaknandani",
+"district_id": 20
+},
+{
+"id": 236,
+"name": "Bateshwar",
+"district_id": 20
+},
+{
+"id": 237,
+"name": "Mukhiyapatti Musharniya",
+"district_id": 20
+},
+{
+"id": 238,
+"name": "Lakshminya",
+"district_id": 20
+},
+{
+"id": 239,
+"name": "Aaurahi",
+"district_id": 20
+},
+{
+"id": 240,
+"name": "Dhanauji",
+"district_id": 20
+},
+{
+"id": 241,
+"name": "Bodebarsain",
+"district_id": 21
+},
+{
+"id": 242,
+"name": "Dakneshwori",
+"district_id": 21
+},
+{
+"id": 243,
+"name": "Hanumannagar Kankalini",
+"district_id": 21
+},
+{
+"id": 244,
+"name": "Kanchanrup",
+"district_id": 21
+},
+{
+"id": 245,
+"name": "Khadak",
+"district_id": 21
+},
+{
+"id": 246,
+"name": "Shambhunath",
+"district_id": 21
+},
+{
+"id": 247,
+"name": "Saptakoshi",
+"district_id": 21
+},
+{
+"id": 248,
+"name": "Surunga",
+"district_id": 21
+},
+{
+"id": 249,
+"name": "Rajbiraj",
+"district_id": 21
+},
+{
+"id": 250,
+"name": "Agnisaira Krishnasavaran",
+"district_id": 21
+},
+{
+"id": 251,
+"name": "Balan-Bihul",
+"district_id": 21
+},
+{
+"id": 252,
+"name": "Rajgadh",
+"district_id": 21
+},
+{
+"id": 253,
+"name": "Bishnupur",
+"district_id": 21
+},
+{
+"id": 254,
+"name": "Chhinnamasta",
+"district_id": 21
+},
+{
+"id": 255,
+"name": "Mahadeva",
+"district_id": 21
+},
+{
+"id": 256,
+"name": "Rupani",
+"district_id": 21
+},
+{
+"id": 257,
+"name": "Tilathi Koiladi",
+"district_id": 21
+},
+{
+"id": 258,
+"name": "Tirhut",
+"district_id": 21
+},
+{
+"id": 259,
+"name": "Aaurahi",
+"district_id": 22
+},
+{
+"id": 260,
+"name": "Balawa",
+"district_id": 22
+},
+{
+"id": 261,
+"name": "Bardibas",
+"district_id": 22
+},
+{
+"id": 262,
+"name": "Bhangaha",
+"district_id": 22
+},
+{
+"id": 263,
+"name": "Gaushala",
+"district_id": 22
+},
+{
+"id": 264,
+"name": "Jaleshor",
+"district_id": 22
+},
+{
+"id": 265,
+"name": "Loharpatti",
+"district_id": 22
+},
+{
+"id": 266,
+"name": "Manara Shiswa",
+"district_id": 22
+},
+{
+"id": 267,
+"name": "Matihani",
+"district_id": 22
+},
+{
+"id": 268,
+"name": "Ramgopalpur",
+"district_id": 22
+},
+{
+"id": 269,
+"name": "Ekdara",
+"district_id": 22
+},
+{
+"id": 270,
+"name": "Mahottari",
+"district_id": 22
+},
+{
+"id": 271,
+"name": "Pipara",
+"district_id": 22
+},
+{
+"id": 272,
+"name": "Samsi",
+"district_id": 22
+},
+{
+"id": 273,
+"name": "Sonama",
+"district_id": 22
+},
+{
+"id": 274,
+"name": "Bhaktapur",
+"district_id": 23
+},
+{
+"id": 275,
+"name": "Changunarayan",
+"district_id": 23
+},
+{
+"id": 276,
+"name": "Suryabinayak",
+"district_id": 23
+},
+{
+"id": 277,
+"name": "Madhyapur Thimi",
+"district_id": 23
+},
+{
+"id": 278,
+"name": "Bharatpur",
+"district_id": 24
+},
+{
+"id": 279,
+"name": "Kalika",
+"district_id": 24
+},
+{
+"id": 280,
+"name": "Khairhani",
+"district_id": 24
+},
+{
+"id": 281,
+"name": "Madi",
+"district_id": 24
+},
+{
+"id": 282,
+"name": "Ratnagar",
+"district_id": 24
+},
+{
+"id": 283,
+"name": "Rapti",
+"district_id": 24
+},
+{
+"id": 284,
+"name": "Ichchhakamana",
+"district_id": 24
+},
+{
+"id": 285,
+"name": "Dhunibeshi",
+"district_id": 25
+},
+{
+"id": 286,
+"name": "Nilkantha",
+"district_id": 25
+},
+{
+"id": 287,
+"name": "Khaniyabas",
+"district_id": 25
+},
+{
+"id": 288,
+"name": "Gajuri",
+"district_id": 25
+},
+{
+"id": 289,
+"name": "Galchhi",
+"district_id": 25
+},
+{
+"id": 290,
+"name": "Gangajamuna",
+"district_id": 25
+},
+{
+"id": 291,
+"name": "Jwalamukhi",
+"district_id": 25
+},
+{
+"id": 292,
+"name": "Thakre",
+"district_id": 25
+},
+{
+"id": 293,
+"name": "Netrawati Dabjong",
+"district_id": 25
+},
+{
+"id": 294,
+"name": "Benighat Rorang",
+"district_id": 25
+},
+{
+"id": 295,
+"name": "Rubi Valley",
+"district_id": 25
+},
+{
+"id": 296,
+"name": "Siddhalek",
+"district_id": 25
+},
+{
+"id": 297,
+"name": "Tripurasundari",
+"district_id": 25
+},
+{
+"id": 298,
+"name": "Bhimeswor",
+"district_id": 26
+},
+{
+"id": 299,
+"name": "Jiri",
+"district_id": 26
+},
+{
+"id": 300,
+"name": "Kalinchok",
+"district_id": 26
+},
+{
+"id": 301,
+"name": "Melung",
+"district_id": 26
+},
+{
+"id": 302,
+"name": "Bigu",
+"district_id": 26
+},
+{
+"id": 303,
+"name": "Gaurishankar",
+"district_id": 26
+},
+{
+"id": 304,
+"name": "Baiteshowr",
+"district_id": 26
+},
+{
+"id": 305,
+"name": "Sailung",
+"district_id": 26
+},
+{
+"id": 306,
+"name": "Tamakoshi",
+"district_id": 26
+},
+{
+"id": 307,
+"name": "Kathmandu",
+"district_id": 27
+},
+{
+"id": 308,
+"name": "Gokarneshwar",
+"district_id": 27
+},
+{
+"id": 309,
+"name": "Kirtipur",
+"district_id": 27
+},
+{
+"id": 310,
+"name": "Kageshwari-Manohara",
+"district_id": 27
+},
+{
+"id": 311,
+"name": "Chandragiri",
+"district_id": 27
+},
+{
+"id": 312,
+"name": "Tokha",
+"district_id": 27
+},
+{
+"id": 313,
+"name": "Tarakeshwar",
+"district_id": 27
+},
+{
+"id": 314,
+"name": "Dakshinkali",
+"district_id": 27
+},
+{
+"id": 315,
+"name": "Nagarjun",
+"district_id": 27
+},
+{
+"id": 316,
+"name": "Budhalikantha",
+"district_id": 27
+},
+{
+"id": 317,
+"name": "Shankharapur",
+"district_id": 27
+},
+{
+"id": 318,
+"name": "Dhulikhel",
+"district_id": 28
+},
+{
+"id": 319,
+"name": "Namobuddha",
+"district_id": 28
+},
+{
+"id": 320,
+"name": "Panauti",
+"district_id": 28
+},
+{
+"id": 321,
+"name": "Panchkhal",
+"district_id": 28
+},
+{
+"id": 322,
+"name": "Banepa",
+"district_id": 28
+},
+{
+"id": 323,
+"name": "Mandandeupur",
+"district_id": 28
+},
+{
+"id": 324,
+"name": "Khani Khola",
+"district_id": 28
+},
+{
+"id": 325,
+"name": "Chauri Deurali",
+"district_id": 28
+},
+{
+"id": 326,
+"name": "Temal",
+"district_id": 28
+},
+{
+"id": 327,
+"name": "Bethanchok",
+"district_id": 28
+},
+{
+"id": 328,
+"name": "Bhumlu",
+"district_id": 28
+},
+{
+"id": 329,
+"name": "Mahabharat",
+"district_id": 28
+},
+{
+"id": 330,
+"name": "Roshi",
+"district_id": 28
+},
+{
+"id": 331,
+"name": "Lalitpur",
+"district_id": 29
+},
+{
+"id": 332,
+"name": "Mahalaxmi",
+"district_id": 29
+},
+{
+"id": 333,
+"name": "Godawari",
+"district_id": 29
+},
+{
+"id": 334,
+"name": "Konjyosom",
+"district_id": 29
+},
+{
+"id": 335,
+"name": "Bagmati",
+"district_id": 29
+},
+{
+"id": 336,
+"name": "Mahankal",
+"district_id": 29
+},
+{
+"id": 337,
+"name": "Hetauda",
+"district_id": 30
+},
+{
+"id": 338,
+"name": "Thaha",
+"district_id": 30
+},
+{
+"id": 339,
+"name": "Bhimphedi",
+"district_id": 30
+},
+{
+"id": 340,
+"name": "Makawanpurgadhi",
+"district_id": 30
+},
+{
+"id": 341,
+"name": "Manahari",
+"district_id": 30
+},
+{
+"id": 342,
+"name": "Raksirang",
+"district_id": 30
+},
+{
+"id": 343,
+"name": "Bakaiya",
+"district_id": 30
+},
+{
+"id": 344,
+"name": "Bagmati",
+"district_id": 30
+},
+{
+"id": 345,
+"name": "Kailash",
+"district_id": 30
+},
+{
+"id": 346,
+"name": "Indrasarowar",
+"district_id": 30
+},
+{
+"id": 347,
+"name": "Bidur",
+"district_id": 31
+},
+{
+"id": 348,
+"name": "Belkotgadhi",
+"district_id": 31
+},
+{
+"id": 349,
+"name": "Kakani",
+"district_id": 31
+},
+{
+"id": 350,
+"name": "Panchakanya",
+"district_id": 31
+},
+{
+"id": 351,
+"name": "Likhu",
+"district_id": 31
+},
+{
+"id": 352,
+"name": "Dupcheshwar",
+"district_id": 31
+},
+{
+"id": 353,
+"name": "Shivapuri",
+"district_id": 31
+},
+{
+"id": 354,
+"name": "Tadi",
+"district_id": 31
+},
+{
+"id": 355,
+"name": "Suryagadhi",
+"district_id": 31
+},
+{
+"id": 356,
+"name": "Tarkeshwar",
+"district_id": 31
+},
+{
+"id": 357,
+"name": "Kispang",
+"district_id": 31
+},
+{
+"id": 358,
+"name": "Myagang",
+"district_id": 31
+},
+{
+"id": 359,
+"name": "Manthali",
+"district_id": 32
+},
+{
+"id": 360,
+"name": "Ramechhap",
+"district_id": 32
+},
+{
+"id": 361,
+"name": "Umakunda",
+"district_id": 32
+},
+{
+"id": 362,
+"name": "Khandadevi",
+"district_id": 32
+},
+{
+"id": 363,
+"name": "Doramba",
+"district_id": 32
+},
+{
+"id": 364,
+"name": "Gokulganga",
+"district_id": 32
+},
+{
+"id": 365,
+"name": "LikhuTamakoshi",
+"district_id": 32
+},
+{
+"id": 366,
+"name": "Sunapati",
+"district_id": 32
+},
+{
+"id": 367,
+"name": "Kalika",
+"district_id": 33
+},
+{
+"id": 368,
+"name": "Gosaikunda",
+"district_id": 33
+},
+{
+"id": 369,
+"name": "Naukunda",
+"district_id": 33
+},
+{
+"id": 370,
+"name": "Parbatikunda",
+"district_id": 33
+},
+{
+"id": 371,
+"name": "Uttargaya",
+"district_id": 33
+},
+{
+"id": 372,
+"name": "Kamalamai",
+"district_id": 34
+},
+{
+"id": 373,
+"name": "Dudhauli",
+"district_id": 34
+},
+{
+"id": 374,
+"name": "Sunkoshi",
+"district_id": 34
+},
+{
+"id": 375,
+"name": "Hariharpurgadhi",
+"district_id": 34
+},
+{
+"id": 376,
+"name": "Tinpatan",
+"district_id": 34
+},
+{
+"id": 377,
+"name": "Marin",
+"district_id": 34
+},
+{
+"id": 378,
+"name": "Golanjor",
+"district_id": 34
+},
+{
+"id": 379,
+"name": "Phikkal",
+"district_id": 34
+},
+{
+"id": 380,
+"name": "Ghyanglekh",
+"district_id": 34
+},
+{
+"id": 381,
+"name": "Chautara Sangachowkgadi",
+"district_id": 35
+},
+{
+"id": 382,
+"name": "Bahrabise",
+"district_id": 35
+},
+{
+"id": 383,
+"name": "Melamchi",
+"district_id": 35
+},
+{
+"id": 384,
+"name": "Balephi",
+"district_id": 35
+},
+{
+"id": 385,
+"name": "Sunkoshi",
+"district_id": 35
+},
+{
+"id": 386,
+"name": "Indrawati",
+"district_id": 35
+},
+{
+"id": 387,
+"name": "Jugal",
+"district_id": 35
+},
+{
+"id": 388,
+"name": "Panchpokhari",
+"district_id": 35
+},
+{
+"id": 389,
+"name": "Bhotekoshi",
+"district_id": 35
+},
+{
+"id": 390,
+"name": "Lisankhu",
+"district_id": 35
+},
+{
+"id": 391,
+"name": "Helambu",
+"district_id": 35
+},
+{
+"id": 392,
+"name": "Tripurasundari",
+"district_id": 35
+},
+{
+"id": 393,
+"name": "Baglung",
+"district_id": 36
+},
+{
+"id": 394,
+"name": "Dhorpatan",
+"district_id": 36
+},
+{
+"id": 395,
+"name": "Galkot",
+"district_id": 36
+},
+{
+"id": 396,
+"name": "Jaimuni",
+"district_id": 36
+},
+{
+"id": 397,
+"name": "Bareng",
+"district_id": 36
+},
+{
+"id": 398,
+"name": "Khathekhola",
+"district_id": 36
+},
+{
+"id": 399,
+"name": "Taman Khola",
+"district_id": 36
+},
+{
+"id": 400,
+"name": "Tara Khola",
+"district_id": 36
+},
+{
+"id": 401,
+"name": "Nishi Khola",
+"district_id": 36
+},
+{
+"id": 402,
+"name": "Badigad",
+"district_id": 36
+},
+{
+"id": 403,
+"name": "Gorkha",
+"district_id": 37
+},
+{
+"id": 404,
+"name": "Palungtar",
+"district_id": 37
+},
+{
+"id": 405,
+"name": "Sulikot",
+"district_id": 37
+},
+{
+"id": 406,
+"name": "Siranchowk",
+"district_id": 37
+},
+{
+"id": 407,
+"name": "Ajirkot",
+"district_id": 37
+},
+{
+"id": 408,
+"name": "Chumnubri",
+"district_id": 37
+},
+{
+"id": 409,
+"name": "Dharche",
+"district_id": 37
+},
+{
+"id": 410,
+"name": "Bhimsen Thapa",
+"district_id": 37
+},
+{
+"id": 411,
+"name": "Sahid Lakhan",
+"district_id": 37
+},
+{
+"id": 412,
+"name": "Aarughat",
+"district_id": 37
+},
+{
+"id": 413,
+"name": "Gandaki",
+"district_id": 37
+},
+{
+"id": 414,
+"name": "Pokhara",
+"district_id": 38
+},
+{
+"id": 415,
+"name": "Annapurna",
+"district_id": 38
+},
+{
+"id": 416,
+"name": "Machhapuchchhre",
+"district_id": 38
+},
+{
+"id": 417,
+"name": "Madi",
+"district_id": 38
+},
+{
+"id": 418,
+"name": "Rupa",
+"district_id": 38
+},
+{
+"id": 419,
+"name": "Besisahar",
+"district_id": 39
+},
+{
+"id": 420,
+"name": "Madhya Nepal",
+"district_id": 39
+},
+{
+"id": 421,
+"name": "Rainas",
+"district_id": 39
+},
+{
+"id": 422,
+"name": "Sundarbazar",
+"district_id": 39
+},
+{
+"id": 423,
+"name": "Dordi",
+"district_id": 39
+},
+{
+"id": 424,
+"name": "Dudhpokhari",
+"district_id": 39
+},
+{
+"id": 425,
+"name": "Kwhlosothar",
+"district_id": 39
+},
+{
+"id": 426,
+"name": "Marsyangdi",
+"district_id": 39
+},
+{
+"id": 427,
+"name": "Chame",
+"district_id": 40
+},
+{
+"id": 428,
+"name": "Nason",
+"district_id": 40
+},
+{
+"id": 429,
+"name": "NarpaBhumi",
+"district_id": 40
+},
+{
+"id": 430,
+"name": "Manang Ngisyang",
+"district_id": 40
+},
+{
+"id": 431,
+"name": "Gharpajhong",
+"district_id": 41
+},
+{
+"id": 432,
+"name": "Thasang",
+"district_id": 41
+},
+{
+"id": 433,
+"name": "Barhagaun Muktichhetra",
+"district_id": 41
+},
+{
+"id": 434,
+"name": "Lomanthang",
+"district_id": 41
+},
+{
+"id": 435,
+"name": "Lo-Ghekar Damodarkunda",
+"district_id": 41
+},
+{
+"id": 436,
+"name": "Beni",
+"district_id": 42
+},
+{
+"id": 437,
+"name": "Annapurna",
+"district_id": 42
+},
+{
+"id": 438,
+"name": "Dhaulagiri",
+"district_id": 42
+},
+{
+"id": 439,
+"name": "Mangala",
+"district_id": 42
+},
+{
+"id": 440,
+"name": "Malika",
+"district_id": 42
+},
+{
+"id": 441,
+"name": "Raghuganga",
+"district_id": 42
+},
+{
+"id": 442,
+"name": "Kawasoti",
+"district_id": 43
+},
+{
+"id": 443,
+"name": "Gaindakot",
+"district_id": 43
+},
+{
+"id": 444,
+"name": "Devachuli",
+"district_id": 43
+},
+{
+"id": 445,
+"name": "Madhya Bindu",
+"district_id": 43
+},
+{
+"id": 446,
+"name": "Baudikali",
+"district_id": 43
+},
+{
+"id": 447,
+"name": "Bulingtar",
+"district_id": 43
+},
+{
+"id": 448,
+"name": "Binayi Tribeni",
+"district_id": 43
+},
+{
+"id": 449,
+"name": "Hupsekot",
+"district_id": 43
+},
+{
+"id": 450,
+"name": "Kushma",
+"district_id": 44
+},
+{
+"id": 451,
+"name": "Phalewas",
+"district_id": 44
+},
+{
+"id": 452,
+"name": "Jaljala",
+"district_id": 44
+},
+{
+"id": 453,
+"name": "Paiyun",
+"district_id": 44
+},
+{
+"id": 454,
+"name": "Mahashila",
+"district_id": 44
+},
+{
+"id": 455,
+"name": "Modi",
+"district_id": 44
+},
+{
+"id": 456,
+"name": "Bihadi",
+"district_id": 44
+},
+{
+"id": 457,
+"name": "Galyang",
+"district_id": 45
+},
+{
+"id": 458,
+"name": "Chapakot",
+"district_id": 45
+},
+{
+"id": 459,
+"name": "Putalibazar",
+"district_id": 45
+},
+{
+"id": 460,
+"name": "Bheerkot",
+"district_id": 45
+},
+{
+"id": 461,
+"name": "Waling",
+"district_id": 45
+},
+{
+"id": 462,
+"name": "Arjun Chaupari",
+"district_id": 45
+},
+{
+"id": 463,
+"name": "Aandhikhola",
+"district_id": 45
+},
+{
+"id": 464,
+"name": "Kaligandaki",
+"district_id": 45
+},
+{
+"id": 465,
+"name": "Phedikhola",
+"district_id": 45
+},
+{
+"id": 466,
+"name": "Harinas",
+"district_id": 45
+},
+{
+"id": 467,
+"name": "Biruwa",
+"district_id": 45
+},
+{
+"id": 468,
+"name": "Bhanu",
+"district_id": 46
+},
+{
+"id": 469,
+"name": "Bhimad",
+"district_id": 46
+},
+{
+"id": 470,
+"name": "Byas",
+"district_id": 46
+},
+{
+"id": 471,
+"name": "Suklagandaki",
+"district_id": 46
+},
+{
+"id": 472,
+"name": "AnbuKhaireni",
+"district_id": 46
+},
+{
+"id": 473,
+"name": "Devghat",
+"district_id": 46
+},
+{
+"id": 474,
+"name": "Bandipur",
+"district_id": 46
+},
+{
+"id": 475,
+"name": "Rishing",
+"district_id": 46
+},
+{
+"id": 476,
+"name": "Ghiring",
+"district_id": 46
+},
+{
+"id": 477,
+"name": "Myagde",
+"district_id": 46
+},
+{
+"id": 478,
+"name": "Kapilvastu",
+"district_id": 47
+},
+{
+"id": 479,
+"name": "Banganga",
+"district_id": 47
+},
+{
+"id": 480,
+"name": "Buddhabhumi",
+"district_id": 47
+},
+{
+"id": 481,
+"name": "Shivaraj",
+"district_id": 47
+},
+{
+"id": 482,
+"name": "Krishnanagar",
+"district_id": 47
+},
+{
+"id": 483,
+"name": "Maharajgunj",
+"district_id": 47
+},
+{
+"id": 484,
+"name": "Mayadevi",
+"district_id": 47
+},
+{
+"id": 485,
+"name": "Yashodhara",
+"district_id": 47
+},
+{
+"id": 486,
+"name": "Suddhodan",
+"district_id": 47
+},
+{
+"id": 487,
+"name": "Bijaynagar",
+"district_id": 47
+},
+{
+"id": 488,
+"name": "Bardaghat",
+"district_id": 48
+},
+{
+"id": 489,
+"name": "Ramgram",
+"district_id": 48
+},
+{
+"id": 490,
+"name": "Sunwal",
+"district_id": 48
+},
+{
+"id": 491,
+"name": "Susta",
+"district_id": 48
+},
+{
+"id": 492,
+"name": "Palhi Nandan",
+"district_id": 48
+},
+{
+"id": 493,
+"name": "Pratappur",
+"district_id": 48
+},
+{
+"id": 494,
+"name": "Sarawal",
+"district_id": 48
+},
+{
+"id": 495,
+"name": "Butwal",
+"district_id": 49
+},
+{
+"id": 496,
+"name": "Devdaha",
+"district_id": 49
+},
+{
+"id": 497,
+"name": "Lumbini Sanskritik",
+"district_id": 49
+},
+{
+"id": 498,
+"name": "Sainamaina",
+"district_id": 49
+},
+{
+"id": 499,
+"name": "Siddharthanagar",
+"district_id": 49
+},
+{
+"id": 500,
+"name": "Tilottama",
+"district_id": 49
+},
+{
+"id": 501,
+"name": "Gaidahawa",
+"district_id": 49
+},
+{
+"id": 502,
+"name": "Kanchan",
+"district_id": 49
+},
+{
+"id": 503,
+"name": "Kotahimai",
+"district_id": 49
+},
+{
+"id": 504,
+"name": "Marchawari",
+"district_id": 49
+},
+{
+"id": 505,
+"name": "Mayadevi",
+"district_id": 49
+},
+{
+"id": 506,
+"name": "Omsatiya",
+"district_id": 49
+},
+{
+"id": 507,
+"name": "Rohini",
+"district_id": 49
+},
+{
+"id": 508,
+"name": "Sammarimai",
+"district_id": 49
+},
+{
+"id": 509,
+"name": "Siyari",
+"district_id": 49
+},
+{
+"id": 510,
+"name": "Suddodhan",
+"district_id": 49
+},
+{
+"id": 511,
+"name": "Sandhikharka",
+"district_id": 50
+},
+{
+"id": 512,
+"name": "Sitganga",
+"district_id": 50
+},
+{
+"id": 513,
+"name": "Bhumikasthan",
+"district_id": 50
+},
+{
+"id": 514,
+"name": "Chhatradev",
+"district_id": 50
+},
+{
+"id": 515,
+"name": "Panini",
+"district_id": 50
+},
+{
+"id": 516,
+"name": "Malarani",
+"district_id": 50
+},
+{
+"id": 517,
+"name": "Resunga",
+"district_id": 51
+},
+{
+"id": 518,
+"name": "Musikot",
+"district_id": 51
+},
+{
+"id": 519,
+"name": "Rurukshetra",
+"district_id": 51
+},
+{
+"id": 520,
+"name": "Chhatrakot",
+"district_id": 51
+},
+{
+"id": 521,
+"name": "Gulmidarbar",
+"district_id": 51
+},
+{
+"id": 522,
+"name": "Chandrakot",
+"district_id": 51
+},
+{
+"id": 523,
+"name": "Satyawati",
+"district_id": 51
+},
+{
+"id": 524,
+"name": "Dhurkot",
+"district_id": 51
+},
+{
+"id": 525,
+"name": "Kaligandaki",
+"district_id": 51
+},
+{
+"id": 526,
+"name": "Isma",
+"district_id": 51
+},
+{
+"id": 527,
+"name": "Malika",
+"district_id": 51
+},
+{
+"id": 528,
+"name": "Madane",
+"district_id": 51
+},
+{
+"id": 529,
+"name": "Tansen",
+"district_id": 52
+},
+{
+"id": 530,
+"name": "Rampur",
+"district_id": 52
+},
+{
+"id": 531,
+"name": "Rainadevi Chhahara",
+"district_id": 52
+},
+{
+"id": 532,
+"name": "Ripdikot",
+"district_id": 52
+},
+{
+"id": 533,
+"name": "Bagnaskali",
+"district_id": 52
+},
+{
+"id": 534,
+"name": "Rambha",
+"district_id": 52
+},
+{
+"id": 535,
+"name": "Purbakhola",
+"district_id": 52
+},
+{
+"id": 536,
+"name": "Nisdi",
+"district_id": 52
+},
+{
+"id": 537,
+"name": "Mathagadhi",
+"district_id": 52
+},
+{
+"id": 538,
+"name": "Tinahu",
+"district_id": 52
+},
+{
+"id": 539,
+"name": "Ghorahi",
+"district_id": 53
+},
+{
+"id": 540,
+"name": "Tulsipur",
+"district_id": 53
+},
+{
+"id": 541,
+"name": "Lamahi",
+"district_id": 53
+},
+{
+"id": 542,
+"name": "Gadhawa",
+"district_id": 53
+},
+{
+"id": 543,
+"name": "Rajpur",
+"district_id": 53
+},
+{
+"id": 544,
+"name": "Shantinagar",
+"district_id": 53
+},
+{
+"id": 545,
+"name": "Rapti",
+"district_id": 53
+},
+{
+"id": 546,
+"name": "Banglachuli",
+"district_id": 53
+},
+{
+"id": 547,
+"name": "Dangisharan",
+"district_id": 53
+},
+{
+"id": 548,
+"name": "Babai",
+"district_id": 53
+},
+{
+"id": 549,
+"name": "Sworgadwari",
+"district_id": 54
+},
+{
+"id": 550,
+"name": "Pyuthan",
+"district_id": 54
+},
+{
+"id": 551,
+"name": "Mandavi",
+"district_id": 54
+},
+{
+"id": 552,
+"name": "Sarumarani",
+"district_id": 54
+},
+{
+"id": 553,
+"name": "Ayirawati",
+"district_id": 54
+},
+{
+"id": 554,
+"name": "Mallarani",
+"district_id": 54
+},
+{
+"id": 555,
+"name": "Jhimruk",
+"district_id": 54
+},
+{
+"id": 556,
+"name": "Naubahini",
+"district_id": 54
+},
+{
+"id": 557,
+"name": "Gaumukhi",
+"district_id": 54
+},
+{
+"id": 558,
+"name": "Rolpa",
+"district_id": 55
+},
+{
+"id": 559,
+"name": "Runtigadi",
+"district_id": 55
+},
+{
+"id": 560,
+"name": "Triveni",
+"district_id": 55
+},
+{
+"id": 561,
+"name": "Sunil Smiriti",
+"district_id": 55
+},
+{
+"id": 562,
+"name": "Lungri",
+"district_id": 55
+},
+{
+"id": 563,
+"name": "Sunchhahari",
+"district_id": 55
+},
+{
+"id": 564,
+"name": "Thawang",
+"district_id": 55
+},
+{
+"id": 565,
+"name": "Madi",
+"district_id": 55
+},
+{
+"id": 566,
+"name": "GangaDev",
+"district_id": 55
+},
+{
+"id": 567,
+"name": "Pariwartan",
+"district_id": 55
+},
+{
+"id": 568,
+"name": "Putha Uttarganga",
+"district_id": 56
+},
+{
+"id": 569,
+"name": "Bhume",
+"district_id": 56
+},
+{
+"id": 570,
+"name": "Sisne",
+"district_id": 56
+},
+{
+"id": 571,
+"name": "Nepalgunj",
+"district_id": 57
+},
+{
+"id": 572,
+"name": "Kohalpur",
+"district_id": 57
+},
+{
+"id": 573,
+"name": "Rapti-Sonari",
+"district_id": 57
+},
+{
+"id": 574,
+"name": "Narainapur",
+"district_id": 57
+},
+{
+"id": 575,
+"name": "Duduwa",
+"district_id": 57
+},
+{
+"id": 576,
+"name": "Janaki",
+"district_id": 57
+},
+{
+"id": 577,
+"name": "Khajura",
+"district_id": 57
+},
+{
+"id": 578,
+"name": "Baijanath",
+"district_id": 57
+},
+{
+"id": 579,
+"name": "Gulariya",
+"district_id": 58
+},
+{
+"id": 580,
+"name": "Rajapur",
+"district_id": 58
+},
+{
+"id": 581,
+"name": "Madhuwan",
+"district_id": 58
+},
+{
+"id": 582,
+"name": "Thakurbaba",
+"district_id": 58
+},
+{
+"id": 583,
+"name": "Basgadhi",
+"district_id": 58
+},
+{
+"id": 584,
+"name": "Barbardiya",
+"district_id": 58
+},
+{
+"id": 585,
+"name": "Badhaiyatal",
+"district_id": 58
+},
+{
+"id": 586,
+"name": "Geruwa",
+"district_id": 58
+},
+{
+"id": 587,
+"name": "Aathabiskot",
+"district_id": 59
+},
+{
+"id": 588,
+"name": "Musikot",
+"district_id": 59
+},
+{
+"id": 589,
+"name": "Chaurjahari",
+"district_id": 59
+},
+{
+"id": 590,
+"name": "SaniBheri",
+"district_id": 59
+},
+{
+"id": 591,
+"name": "Triveni",
+"district_id": 59
+},
+{
+"id": 592,
+"name": "Banphikot",
+"district_id": 59
+},
+{
+"id": 593,
+"name": "Kumakh",
+"district_id": 60
+},
+{
+"id": 594,
+"name": "Kalimati",
+"district_id": 60
+},
+{
+"id": 595,
+"name": "Chhatreshwari",
+"district_id": 60
+},
+{
+"id": 596,
+"name": "Darma",
+"district_id": 60
+},
+{
+"id": 597,
+"name": "Kapurkot",
+"district_id": 60
+},
+{
+"id": 598,
+"name": "Triveni",
+"district_id": 60
+},
+{
+"id": 599,
+"name": "Siddha Kumakh",
+"district_id": 60
+},
+{
+"id": 600,
+"name": "Bagchaur",
+"district_id": 60
+},
+{
+"id": 601,
+"name": "Shaarda",
+"district_id": 60
+},
+{
+"id": 602,
+"name": "Bangad Kupinde",
+"district_id": 60
+},
+{
+"id": 603,
+"name": "Mudkechula",
+"district_id": 61
+},
+{
+"id": 604,
+"name": "Kaike",
+"district_id": 61
+},
+{
+"id": 605,
+"name": "She Phoksundo",
+"district_id": 61
+},
+{
+"id": 606,
+"name": "Jagadulla",
+"district_id": 61
+},
+{
+"id": 607,
+"name": "Dolpo Buddha",
+"district_id": 61
+},
+{
+"id": 608,
+"name": "Chharka Tongsong",
+"district_id": 61
+},
+{
+"id": 609,
+"name": "Thuli Bheri",
+"district_id": 61
+},
+{
+"id": 610,
+"name": "Tripurasundari",
+"district_id": 61
+},
+{
+"id": 611,
+"name": "Simkot",
+"district_id": 62
+},
+{
+"id": 612,
+"name": "Sarkegad",
+"district_id": 62
+},
+{
+"id": 613,
+"name": "Adanchuli",
+"district_id": 62
+},
+{
+"id": 614,
+"name": "Kharpunath",
+"district_id": 62
+},
+{
+"id": 615,
+"name": "Tanjakot",
+"district_id": 62
+},
+{
+"id": 616,
+"name": "Chankheli",
+"district_id": 62
+},
+{
+"id": 617,
+"name": "Namkha",
+"district_id": 62
+},
+{
+"id": 618,
+"name": "Tatopani",
+"district_id": 63
+},
+{
+"id": 619,
+"name": "Patarasi",
+"district_id": 63
+},
+{
+"id": 620,
+"name": "Tila",
+"district_id": 63
+},
+{
+"id": 621,
+"name": "Kanaka Sundari",
+"district_id": 63
+},
+{
+"id": 622,
+"name": "Sinja",
+"district_id": 63
+},
+{
+"id": 623,
+"name": "Hima",
+"district_id": 63
+},
+{
+"id": 624,
+"name": "Guthichaur",
+"district_id": 63
+},
+{
+"id": 625,
+"name": "Chandannath",
+"district_id": 63
+},
+{
+"id": 626,
+"name": "Khandachakra",
+"district_id": 64
+},
+{
+"id": 627,
+"name": "Raskot",
+"district_id": 64
+},
+{
+"id": 628,
+"name": "Tilagufa",
+"district_id": 64
+},
+{
+"id": 629,
+"name": "Narharinath",
+"district_id": 64
+},
+{
+"id": 630,
+"name": "Palata",
+"district_id": 64
+},
+{
+"id": 631,
+"name": "Shubha Kalika",
+"district_id": 64
+},
+{
+"id": 632,
+"name": "Sanni Triveni",
+"district_id": 64
+},
+{
+"id": 633,
+"name": "Pachaljharana",
+"district_id": 64
+},
+{
+"id": 634,
+"name": "Mahawai",
+"district_id": 64
+},
+{
+"id": 635,
+"name": "Khatyad",
+"district_id": 65
+},
+{
+"id": 636,
+"name": "Soru",
+"district_id": 65
+},
+{
+"id": 637,
+"name": "Mugum Karmarong",
+"district_id": 65
+},
+{
+"id": 638,
+"name": "Chhayanath Rara",
+"district_id": 65
+},
+{
+"id": 639,
+"name": "Simta",
+"district_id": 66
+},
+{
+"id": 640,
+"name": "Barahatal",
+"district_id": 66
+},
+{
+"id": 641,
+"name": "Chaukune",
+"district_id": 66
+},
+{
+"id": 642,
+"name": "Chingad",
+"district_id": 66
+},
+{
+"id": 643,
+"name": "Gurbhakot",
+"district_id": 66
+},
+{
+"id": 644,
+"name": "Birendranagar",
+"district_id": 66
+},
+{
+"id": 645,
+"name": "Bheriganga",
+"district_id": 66
+},
+{
+"id": 646,
+"name": "Panchapuri",
+"district_id": 66
+},
+{
+"id": 647,
+"name": "Lekbeshi",
+"district_id": 66
+},
+{
+"id": 648,
+"name": "Dullu",
+"district_id": 67
+},
+{
+"id": 649,
+"name": "Gurans",
+"district_id": 67
+},
+{
+"id": 650,
+"name": "Bhairabi",
+"district_id": 67
+},
+{
+"id": 651,
+"name": "Naumule",
+"district_id": 67
+},
+{
+"id": 652,
+"name": "Mahabu",
+"district_id": 67
+},
+{
+"id": 653,
+"name": "Thantikandh",
+"district_id": 67
+},
+{
+"id": 654,
+"name": "Bhagawatimai",
+"district_id": 67
+},
+{
+"id": 655,
+"name": "Dungeshwar",
+"district_id": 67
+},
+{
+"id": 656,
+"name": "Aathabis",
+"district_id": 67
+},
+{
+"id": 657,
+"name": "Narayan",
+"district_id": 67
+},
+{
+"id": 658,
+"name": "Chamunda Bindrasaini",
+"district_id": 67
+},
+{
+"id": 659,
+"name": "Chhedagad",
+"district_id": 68
+},
+{
+"id": 660,
+"name": "Bheri",
+"district_id": 68
+},
+{
+"id": 661,
+"name": "Nalgad",
+"district_id": 68
+},
+{
+"id": 662,
+"name": "Junichande",
+"district_id": 68
+},
+{
+"id": 663,
+"name": "Kuse",
+"district_id": 68
+},
+{
+"id": 664,
+"name": "Barekot",
+"district_id": 68
+},
+{
+"id": 665,
+"name": "Shivalaya",
+"district_id": 68
+},
+{
+"id": 666,
+"name": "Mahakali",
+"district_id": 69
+},
+{
+"id": 667,
+"name": "Shailyashikhar",
+"district_id": 69
+},
+{
+"id": 668,
+"name": "Naugad",
+"district_id": 69
+},
+{
+"id": 669,
+"name": "Malikarjun",
+"district_id": 69
+},
+{
+"id": 670,
+"name": "Marma",
+"district_id": 69
+},
+{
+"id": 671,
+"name": "Lekam",
+"district_id": 69
+},
+{
+"id": 672,
+"name": "Duhun",
+"district_id": 69
+},
+{
+"id": 673,
+"name": "Vyans",
+"district_id": 69
+},
+{
+"id": 674,
+"name": "Apihimal",
+"district_id": 69
+},
+{
+"id": 675,
+"name": "Jayaprithvi",
+"district_id": 70
+},
+{
+"id": 676,
+"name": "Bungal",
+"district_id": 70
+},
+{
+"id": 677,
+"name": "Kedarsyu",
+"district_id": 70
+},
+{
+"id": 678,
+"name": "Thalara",
+"district_id": 70
+},
+{
+"id": 679,
+"name": "Bitthadchir",
+"district_id": 70
+},
+{
+"id": 680,
+"name": "Chhabis Pathibhera",
+"district_id": 70
+},
+{
+"id": 681,
+"name": "Khaptadchhanna",
+"district_id": 70
+},
+{
+"id": 682,
+"name": "Masta",
+"district_id": 70
+},
+{
+"id": 683,
+"name": "Durgathali",
+"district_id": 70
+},
+{
+"id": 684,
+"name": "Talkot",
+"district_id": 70
+},
+{
+"id": 685,
+"name": "Surma",
+"district_id": 70
+},
+{
+"id": 686,
+"name": "Saipal",
+"district_id": 70
+},
+{
+"id": 687,
+"name": "Badimalika",
+"district_id": 71
+},
+{
+"id": 688,
+"name": "Triveni",
+"district_id": 71
+},
+{
+"id": 689,
+"name": "Budhiganga",
+"district_id": 71
+},
+{
+"id": 690,
+"name": "Budhinanda",
+"district_id": 71
+},
+{
+"id": 691,
+"name": "Khaptad Chhededaha",
+"district_id": 71
+},
+{
+"id": 692,
+"name": "Swami Kartik Khapar",
+"district_id": 71
+},
+{
+"id": 693,
+"name": "Jagannath",
+"district_id": 71
+},
+{
+"id": 694,
+"name": "Himali",
+"district_id": 71
+},
+{
+"id": 695,
+"name": "Gaumul",
+"district_id": 71
+},
+{
+"id": 696,
+"name": "Dashrathchanda",
+"district_id": 72
+},
+{
+"id": 697,
+"name": "Patan",
+"district_id": 72
+},
+{
+"id": 698,
+"name": "Melauli",
+"district_id": 72
+},
+{
+"id": 699,
+"name": "Purchaudi",
+"district_id": 72
+},
+{
+"id": 700,
+"name": "Dogdakedar",
+"district_id": 72
+},
+{
+"id": 701,
+"name": "Dilashaini",
+"district_id": 72
+},
+{
+"id": 702,
+"name": "Sigas",
+"district_id": 72
+},
+{
+"id": 703,
+"name": "Pancheshwar",
+"district_id": 72
+},
+{
+"id": 704,
+"name": "Surnaya",
+"district_id": 72
+},
+{
+"id": 705,
+"name": "Shivanath",
+"district_id": 72
+},
+{
+"id": 706,
+"name": "Dipayal Silgadhi",
+"district_id": 73
+},
+{
+"id": 707,
+"name": "Shikhar",
+"district_id": 73
+},
+{
+"id": 708,
+"name": "Aadarsha",
+"district_id": 73
+},
+{
+"id": 709,
+"name": "Purbichauki",
+"district_id": 73
+},
+{
+"id": 710,
+"name": "K.I.Singh",
+"district_id": 73
+},
+{
+"id": 711,
+"name": "Jorayal",
+"district_id": 73
+},
+{
+"id": 712,
+"name": "Sayal",
+"district_id": 73
+},
+{
+"id": 713,
+"name": "Bogatan-Phudsil",
+"district_id": 73
+},
+{
+"id": 714,
+"name": "Badikedar",
+"district_id": 73
+},
+{
+"id": 715,
+"name": "Ramaroshan",
+"district_id": 74
+},
+{
+"id": 716,
+"name": "Chaurpati",
+"district_id": 74
+},
+{
+"id": 717,
+"name": "Turmakhand",
+"district_id": 74
+},
+{
+"id": 718,
+"name": "Mellekh",
+"district_id": 74
+},
+{
+"id": 719,
+"name": "Dhakari",
+"district_id": 74
+},
+{
+"id": 720,
+"name": "Bannigadi Jayagad",
+"district_id": 74
+},
+{
+"id": 721,
+"name": "Mangalsen",
+"district_id": 74
+},
+{
+"id": 722,
+"name": "Kamalbazar",
+"district_id": 74
+},
+{
+"id": 723,
+"name": "Sanfebagar",
+"district_id": 74
+},
+{
+"id": 724,
+"name": "Panchadewal Binayak",
+"district_id": 74
+},
+{
+"id": 725,
+"name": "Navadurga",
+"district_id": 75
+},
+{
+"id": 726,
+"name": "Aalitaal",
+"district_id": 75
+},
+{
+"id": 727,
+"name": "Ganyapadhura",
+"district_id": 75
+},
+{
+"id": 728,
+"name": "Bhageshwar",
+"district_id": 75
+},
+{
+"id": 729,
+"name": "Ajaymeru",
+"district_id": 75
+},
+{
+"id": 730,
+"name": "Amargadhi",
+"district_id": 75
+},
+{
+"id": 731,
+"name": "Parshuram",
+"district_id": 75
+},
+{
+"id": 732,
+"name": "Bhimdatta",
+"district_id": 76
+},
+{
+"id": 733,
+"name": "Punarbas",
+"district_id": 76
+},
+{
+"id": 734,
+"name": "Bedkot",
+"district_id": 76
+},
+{
+"id": 735,
+"name": "Mahakali",
+"district_id": 76
+},
+{
+"id": 736,
+"name": "Shuklaphanta",
+"district_id": 76
+},
+{
+"id": 737,
+"name": "Belauri",
+"district_id": 76
+},
+{
+"id": 738,
+"name": "Krishnapur",
+"district_id": 76
+},
+{
+"id": 739,
+"name": "Laljhadi",
+"district_id": 76
+},
+{
+"id": 740,
+"name": "Beldandi",
+"district_id": 76
+},
+{
+"id": 741,
+"name": "Janaki",
+"district_id": 77
+},
+{
+"id": 742,
+"name": "Kailari",
+"district_id": 77
+},
+{
+"id": 743,
+"name": "Joshipur",
+"district_id": 77
+},
+{
+"id": 744,
+"name": "Bardagoriya",
+"district_id": 77
+},
+{
+"id": 745,
+"name": "Mohanyal",
+"district_id": 77
+},
+{
+"id": 746,
+"name": "Chure",
+"district_id": 77
+},
+{
+"id": 747,
+"name": "Tikapur",
+"district_id": 77
+},
+{
+"id": 748,
+"name": "Ghodaghodi",
+"district_id": 77
+},
+{
+"id": 749,
+"name": "Lamkichuha",
+"district_id": 77
+},
+{
+"id": 750,
+"name": "Bhajni",
+"district_id": 77
+},
+{
+"id": 751,
+"name": "Godawari",
+"district_id": 77
+},
+{
+"id": 752,
+"name": "Gauriganga",
+"district_id": 77
+},
+{
+"id": 753,
+"name": "Dhangadhi",
+"district_id": 77
+}
+]
