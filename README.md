@@ -1,5 +1,6 @@
 # nepal_province_to_municipality
 ## This repo includes json file of nepal provinces, districts, municipalities and so on. 
+### Easy to use this api in your appliation
 ### This is an easy way to access nepal's province and municipality.
 # TODO
 ## Need to use some db and help to search location and filter the options
